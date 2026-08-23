@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Clean, dark developer-friendly background -->
+  <rect width="400" height="400" rx="80" fill="#0f172a"/>
+  
+  <g transform="translate(45, 0)">
+    <!-- Solid structure: Enterprise code -->
+    <rect x="70" y="100" width="45" height="200" rx="12" fill="#38bdf8"/>
+    
+    <!-- Dynamic loop: Community innovation -->
+    <path d="M 135 100 h 65 a 100 100 0 0 1 100 100 a 100 100 0 0 1 -100 100 h -65 v -45 h 65 a 55 55 0 0 0 55 -55 a 55 55 0 0 0 -55 -55 h -65 z" fill="#34d399"/>
+  </g>
+</svg>
