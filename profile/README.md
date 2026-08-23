@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.svg" alt="Daviante Group Logo" width="180" height="180" />
+  <img src="../logo.svg" alt="Daviante Group Logo" width="180" height="180" />
   
   <h1>Daviante Group</h1>
 
